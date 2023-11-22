@@ -15,9 +15,7 @@
         text-align: center;
       }
 
-      div {
-        text-align: center;
-      }
+      
 
       h2 {
         text-align: center;
@@ -35,15 +33,15 @@
       }
 
       #section0 {
-        background-color: #b8b51d;
+        background-color: #8d82f5;
       }
 
       #section1 {
-        background-color: #423711;
+        background-color: #09005e;
       }
 
       #section2 {
-        background-color: #bbb5a7;
+        background-color: #8d82f5;
       }
     </style>
 
