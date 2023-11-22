@@ -17,8 +17,7 @@
 
       #section0,
       #section1,
-      #section2,
-       {
+      #section2{
         height: 700px;
       }
 
@@ -37,9 +36,9 @@
       
     </style>
     
-    <a href="#section1">Paintings</a>
+    <a href="#section0">Paintings</a>
     <a href="#section1">Drawings</a>
-    <a href="#section1">Crochet</a>
+    <a href="#section2">Crochet</a>
     <h2>
       One-page scroll site template</h2>
     <div id="section0">
