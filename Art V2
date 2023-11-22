@@ -7,7 +7,20 @@
   </head>
   <body>
     <style>
+      h1 {
+        text-align: center;
+      }
+
+      p {
+        text-align: center;
+      }
+
+      div {
+        text-align: center;
+      }
+
       h2 {
+        text-align: center;
         color: black;
       }
 
@@ -17,7 +30,7 @@
 
       #section0,
       #section1,
-      #section2{
+      #section2 {
         height: 700px;
       }
 
@@ -32,16 +45,15 @@
       #section2 {
         background-color: #bbb5a7;
       }
-
-      
     </style>
-    
+
     <a href="#section0">Paintings</a>
     <a href="#section1">Drawings</a>
     <a href="#section2">Crochet</a>
     <h2>
-      One-page scroll site template</h2>
+      Art</h2>
     <div id="section0">
+      <img src="/Pictures/test image 1.webp" alt="test image 1">
     </div>
     <div id="section1">
       Your amazing content goes here!
